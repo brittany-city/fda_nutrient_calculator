@@ -1,4 +1,4 @@
-# FDA Nutrient Calculator
+# USDA Nutrient Calculator
 
 #### Project Status: In Progress
 
